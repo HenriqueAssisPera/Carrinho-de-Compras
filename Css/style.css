@@ -1,0 +1,72 @@
+/*zerando padding e margin global*/
+* {
+    padding:0;
+    margin: 0;
+    
+}
+
+/*tirando marcação inferior em baixo do link*/
+a{
+
+text-decoration: none;
+color:#0D121A;
+
+}
+
+/*a hover para efeito nos links a*/
+a :hover{
+
+    color:#415880;
+
+}
+
+/*setando cor para o fundo*/
+body{
+
+    background-color: #E1E2FF;
+
+}
+
+/*ajustando altura de algun icones*/
+i {
+
+    margin-top: 13px;
+
+}
+
+/* montando header*/
+.cabecalho {
+
+    border-bottom:1px solid grey ;
+     display: flex;
+     justify-content: space-evenly;
+     color:#0D121A;
+}
+
+/*alguns ajustes para alinhamento e organização*/
+
+.logo {
+
+    padding: 5px; 
+
+}
+
+.itens {
+
+    display: flex;
+    gap: 25px;
+    margin-top: 10px;
+}
+
+.itensCarrinho{
+
+    display: flex;
+
+}
+
+
+.itens h3 {
+
+    padding: 5px; 
+
+}

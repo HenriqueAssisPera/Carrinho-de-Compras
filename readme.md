@@ -25,3 +25,17 @@ Testes (Opcional)
 Requisição HTTP para pegar a lista de produtos:
 GET https://618e6a1850e24d0017ce1294.mockapi.io/api/v1/products
 
+//anotações
+
+Usei esta ferramenta para analisar contraste de cores :
+ https://color.adobe.com/pt/create/color-contrast-analyzer
+
+
+//fazer nos proximos commits
+
+começar a configurar a api e agrupar itens
+
+configurar media querys para responsividade
+
+//
+
