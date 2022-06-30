@@ -27,6 +27,14 @@ body{
 
 }
 
+/*setando tamanho das imagens*/
+img{
+
+    width: 200px;
+    height: 200px;
+
+}
+
 /*ajustando altura de algun icones*/
 i {
 
